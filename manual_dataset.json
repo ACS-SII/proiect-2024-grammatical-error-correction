@@ -822,6 +822,813 @@
           "mai"
         ]
       }
+    },
+    {
+      "text": "Am fost intrebat: la ce i-ar servi unui comtemporan să citească fie si numai cele trei piese de Aristofan pe care i le propun în volumul de fată? Întrebarea nu-i fara sens: Aristofan a trăit acum aproximativ doua mii patru sute de ani; lumea lui era, sau cel puţin aşa ne-o închipuim, complet diferită de a noastră, la începutul secolului XXI.Alte ocupaţi, alte state, mult mai mici, alte griji, alte bucuri, pană la urmă altfel de oamenii la el şi la noi, nu-i aşa? Şi atunci de ce iam acorda bătrânului comediograf mai mult decât o atenţie de tip arheologic, şi nu i-am prefera în schimb lecturi mai actuale pentru orele libere?",
+      "edits": {
+        "start": [9, 41, 65, 138, 158, 209, 344, 397, 410, 484],
+        "end": [16, 51, 76, 144, 171, 216, 355, 407, 413, 486],
+        "text": [
+          "întrebat",
+          "contemporan",
+          "fie şi numai",
+          "de faţă",
+          "nu-i fără sens",
+          "două mii",
+          "Alte ocupaţii",
+          "alte bucurii",
+          "până",
+          "oameni",
+          "i-am"
+        ]
+      }
+    },
+
+    {
+      "text": "Pe fermecătorul ţarm al Rivierei franceze, cam la jumătate drumului intre Marsilia şi graniţă italiană, se afla un hotel mare, superbă de culoare tranda-firie. Palmieri plini de deferenţă âi răcoresc faţadă congestionată si în faţa lui se întinde o plajă scurtă, orbitoare, Acuma locul a ajuns o staţiune de vară pentru lumea importantă şi la modă; în 1925 rămânea aproape pustiu după ce clientela să engleza pleca spre nord, în aprilie; numai cupolele unei duzini de vile vechii mai putrezeau ca nuferi printre pinii masaţi între Hôtel des Etrangères al lui Gausse şi Cannes, la cinci mile depărtare.",
+      "edits": {
+        "start": [
+          17, 51, 69, 87, 128, 147, 189, 201, 222, 240, 264, 275, 399, 402, 469,
+          498
+        ],
+        "end": [
+          20, 58, 73, 93, 134, 158, 190, 206, 223, 246, 273, 279, 400, 408, 479,
+          503
+        ],
+        "text": [
+          "ţărm",
+          " jumătatea",
+          "între",
+          "graniţa",
+          "superb,",
+          "trandafirie",
+          "îi",
+          "faţada",
+          "şi",
+          "întindea",
+          "orbitoare.",
+          "Acum",
+          "sa",
+          "engleză",
+          "vile vechi",
+          "nuferii"
+        ]
+      }
+    },
+
+    {
+      "text": "Hotelul şi covoraş de rugăciunea arămiu al plajei sale erau una. Dimineaţa devreme. imaginea îndepărtată a oraşului Cannes, străvechile fortificaţi trandafiri şi albicioase, Alpii vineţii care străjuiau italia se răsfrân-geau în apă şi tremurau acolo în unduiri şi cercuri urcate prin ierburile marine din limpezimile-i nu prea adânci, înainte de ceasurile opt, un bărbat coborâ-se pe plajă înfăşurat într-un halat albastru şi, după ce în prealabil se stopise de mai multe ori cu apă rece, peste tot trupul, după multe gafâieli şi grohăituri, se bălacii un minut în mare.",
+      "edits": {
+        "start": [12, 23, 66, 137, 149, 204, 214, 373, 520, 547],
+        "end": [18, 32, 83, 147, 158, 209, 225, 381, 527, 553],
+        "text": [
+          "covorașul",
+          "rugăciune",
+          "Dimineața devreme,",
+          "fortificaţii",
+          "trandafirii",
+          "Italia",
+          "răsfrângeau",
+          "coborâse",
+          "gâfâieli",
+          "bălăci",
+          "limpezimile-i"
+        ]
+      }
+    },
+
+    {
+      "text": "La o mila depărtarea de mare, unde pini lăsă locul unor plopi prăfuiţi. se află o gară izolată, de unde in acestă dimineaţa de iunie a anului 1925 o trăsură le aduce pe o doamnă şi pe fica ei către hotelul lui Gausse. Faţa mamei erau de o dragălăşenie uşor ofilită, iar curând avea să fie pătată de vinişoare sparte; expresia îi erau liniştita dar si atentă într-un chip plăcut. Totuşi; ochii i se întorceau mereu grabiţi către fica ei, care avea ceva fermecătoare în palmele roz şi în obraji ce i-se aprindeau cu o flacără de splendoare, ca roşeaţă tremurătoare a trupurilor copilor după o baie rece, seara.",
+      "edits": {
+        "start": [
+          6, 11, 36, 41, 63, 105, 115, 161, 185, 230, 240, 330, 335, 349, 380,
+          429, 453, 487, 497, 543, 577
+        ],
+        "end": [
+          9, 20, 39, 44, 71, 106, 123, 165, 188, 233, 251, 333, 343, 350, 386,
+          432, 464, 492, 500, 549, 583
+        ],
+        "text": [
+          "milă",
+          "depărtare",
+          "pinii",
+          "lasă",
+          "prăfuiți,",
+          "în",
+          "dimineață",
+          "aducea",
+          "fiica",
+          "era",
+          "drăgălăşenie",
+          "era",
+          "liniștită",
+          "şi",
+          "Totuşi,",
+          "fiica",
+          "fermecător",
+          "obrajii",
+          "i se",
+          "roșeața",
+          "copiilor"
+        ]
+      }
+    },
+    {
+      "text": "Frunte ei frumoasa, înaltă, s-e arcuia blând până la locul unde parul, mărginindo asemenea unui scut armorial, izbucnea în cârlionti şi în valuri, şi în bucle de blond cenuşiu şi aur. Ochi îi erau strălucitori, mari, limpezi, umezi şi luminoşi. culoare din obrajii era firească, razbătând directă pe epidermă din pulsaţie puternică, tânără, a inimii. Trupul îi tremura delicată pe ultima fruntarie a copilăriei, avea aproape optsprezece ani, era aproape împlinită, însă rouă mai scânteia încă peste întreaga ei făptură.",
+      "edits": {
+        "start": [
+          1, 11, 29, 65, 72, 124, 185, 236, 246, 258, 280, 290, 314, 370, 471
+        ],
+        "end": [
+          6, 18, 31, 69, 81, 132, 188, 244, 252, 264, 288, 296, 321, 377, 474
+        ],
+        "text": [
+          "Fruntea",
+          "frumoasă",
+          "se",
+          "părul",
+          "mărginind-o",
+          "cârlionţi",
+          "Ochii",
+          "luminoşi,",
+          "culoarea",
+          "obraji",
+          "răzbătând",
+          "direct",
+          "pulsaţia",
+          "delicat",
+          "roua"
+        ]
+      }
+    },
+    {
+      "text": "La hotel fața reţinu camere-le întro franceza fluentă însă cam in expresivă, ca o limbă ănvăţată m-ai demult si care acum începea să şi o re-amintească. Când se instalaseră la parter, ea paşi în lucirea orbitoare a uşilor şi încercă doi sau trei paşi pe veranda de piatră care se întindea pe toată faţada hotelului, Avea un mers de balerină, cu paşii pornindui apăsaţi, nu din şolduri, ci din ritmul trupului întreg. Acolo, afară, soarele fierbinte îi mulă în deaproape umbra şi ea se trase înapoi, era prea multă lumină ca să vadă ceva. Cincizeci de metri mai încolo Mediterana îşi dăruia pigmenţi, clipa după clipă, soarelui acesta brutal; în josul balustradei, un Buick decolorat se cocea pe alea hotelului.",
+      "edits": {
+        "start": [
+          10, 22, 32, 38, 64, 89, 98, 110, 113, 134, 139, 188, 306, 352, 458,
+          591, 601, 696
+        ],
+        "end": [
+          13, 30, 36, 45, 75, 96, 101, 111, 116, 137, 151, 191, 315, 360, 462,
+          597, 616, 699
+        ],
+        "text": [
+          "fata",
+          "camerele",
+          "într-o",
+          "franceză",
+          "inexpresivă",
+          "învăţată",
+          "mai",
+          "şi",
+          "pe care",
+          "şi-o",
+          "reamintească",
+          "păşi",
+          "hotelului.",
+          "pornindu-i",
+          "îndeaproape",
+          "pigmenţii",
+          "clipă după clipă",
+          "aleea"
+        ]
+      }
+    },
+    {
+      "text": "Întradevăr, din întreagă regiune numai plaja mai vădea semne de viţă. Trei guvernante englezoaice şede înpletind modelele lente ale Angliei victoriene, tiparul anilor patruzeci, cel al anilor şaizeci şi cel al ani-lor optzeci, dândule forme de jacheţele şi ciorapi, după melodile bârfelor turnate ân formule stricate ca nişte incantaţii; mai aproape de mare, cam o duzină de oameni s-e adaposteau sub umbrele dungate, în vreme ce duzina lor de copiii deloc timizi vânau peştii prin apa puţin adâncă de lângă ţărm sau zăcea şi lucind de la uleiul de cocos, la soare.",
+      "edits": {
+        "start": [
+          1, 17, 65, 99, 104, 211, 228, 272, 298, 309, 383, 387, 445, 518
+        ],
+        "end": [
+          10, 24, 68, 102, 112, 217, 234, 279, 299, 316, 385, 396, 450, 522
+        ],
+        "text": [
+          "Într-adevăr",
+          "întreaga",
+          "viaţă",
+          "şedeau",
+          "împletind",
+          "anilor",
+          "dându-le",
+          "melodiile",
+          "în",
+          "stricte",
+          "se",
+          "adăposteau",
+          "copii",
+          "zăceau"
+        ]
+      }
+    },
+    {
+      "text": "Cand Rosemary ieşii pe plajă, un băietaş de vre-o doispre-zece ani alergă pe langa ea şi ţâşni în mare cu strigăte pline de exaltare. Simţinduşi pe trup scrutările convergente a-le unor chipuri straine, ea î-şi dezbrăcă halatul de baie şi îl urmă. Pluti cu faţa în jos câţiva metri şi constatând că apa e mic, se ridică, ne-sigură, şi păşi mai departe, trăgânduşi piciorul zvelte ca pe nişte greu tăţi prin apa carei opunea rezistenţă. Când apa i se ridică până aproape de sâni, aruncă o privire îndărăt spre ţărm; un bărbat chel cu monoclu şi o pereche de pantaloni strâmţi de baie, o privea cu atenţie.",
+      "edits": {
+        "start": [
+          1, 15, 34, 45, 51, 78, 135, 177, 195, 207, 306, 322, 354, 365, 393,
+          412
+        ],
+        "end": [
+          4, 19, 40, 49, 62, 82, 144, 180, 201, 210, 308, 330, 363, 372, 401,
+          416
+        ],
+        "text": [
+          "Când",
+          "ieşi",
+          "băieţaş",
+          "vreo",
+          "doisprezece",
+          "lângă",
+          "Simţindu-şi",
+          "ale",
+          "străine",
+          "îşi",
+          "mică",
+          "nesigură",
+          "trăgându-şi",
+          "picioarele",
+          "greu tăţi",
+          "care-i"
+        ]
+      }
+    },
+    {
+      "text": "Maicăsa era prietena ei cea mai bună şi îşi investi-se toată finţa în opera care consta în a o creşte şi a o pregăti petnru viaţă; aşa ceva nu era un lucru prea rar în profesia actoricească, reprezenta totuşi ceva deosebit pentru că doamna Elsie Speers nu încerca săşi compenseze astfel vreo ânfrângere proprie. Nu avea motive de amaraciune şi nici re-sentimente personale faţa de viaţă, de două ori căsătorit satisfăcător şi de două ori văduvă, stoicismul ei jovial se intensificase de fiecare dată? Primul ei soţ, tatăl lui Rosemary, fuse medic militar, iar cel deal doilea, ofiţer de cavalerie, şi amândoi îi lăsaseră câte ceva, iar ea voia să păstreze patrimoniul acesta intact pentru Rosemary.",
+      "edits": {
+        "start": [1, 41, 62, 118, 257, 293, 331, 350, 374, 401, 496, 537, 561],
+        "end": [7, 54, 66, 129, 268, 302, 340, 372, 380, 409, 500, 540, 575],
+        "text": [
+          "Maică-sa",
+          "îşi investise",
+          "fiinţa",
+          "pentru viaţă",
+          "încerca să-şi",
+          "înfrângere",
+          "amărăciune",
+          "resentimente personale",
+          "faţă de",
+          "căsătorită",
+          "dată.",
+          "fusese",
+          "cel de-al doilea"
+        ]
+      }
+    },
+    {
+      "text": "Necruţândo deloc o făcuse pe Rosemary o finţă tare, necrutânduşi nici propria ei muncă şi devotamentu-l, cultiva-se în Rosemary un idealism care în momentul de faţă se îndrepta spre ea înseşi şi vedea acum lumea prin ochii ei, Astfel că Rosemary Hoyt, rămânând un copil „simplu“, era protejată de un scut dublu:  armura mamei sale şi a ei proprie. Capatase o neâncredere matură faţă de tot ce era mărunt şi facil. Cu toate acestea odată cu sucesul brusc care-l cunoscuse Rosemary în lumea filmului, doamna Speers simţi că venise vremea să fie înţărcată şi din punct de vedere spiritual; ar fi fost pentru ea mai degrabă un prilej de plăcere decât de suferinţă dacă acest idealism dezlănţuit, plin de avânt şi de exigenţă, sar fi concentrat asupra altcuiva decât asupra ei.",
+      "edits": {
+        "start": [
+          1, 12, 41, 53, 91, 106, 186, 218, 349, 360, 415, 441, 455, 723
+        ],
+        "end": [
+          10, 16, 45, 64, 103, 115, 191, 233, 356, 370, 430, 447, 460, 728
+        ],
+        "text": [
+          "Necruţând-o",
+          "deloc,",
+          "fiinţă",
+          "necruţându-şi",
+          "devotamentul",
+          "cultivase",
+          "însăşi",
+          "ochii ei. Astfel",
+          "Căpătase",
+          "neîncredere",
+          "Cu toate acestea,",
+          "succesul",
+          "pe care-l",
+          "s-ar fi"
+        ]
+      }
+    },
+    {
+      "text": "După de-jun, amandoua fură covârşite de o apație bruscă, de felul celei care pogoară asupra americanilor in călătorie, prin locuri mai liniştite din strainatate. Nu mai simţeau nici un fel de impulsuri, nu se mai chemau glasuri de afară, şi nici frân turi din proprile gânduri nu se mai iveau pe ne aşteptate din minţile altora; şi, lipsindule brusc vacarmul de la marile hoteluri de tipul Empire, de acasă, aveau dintrodată impresia că aici viaţa se oprise locului.",
+      "edits": {
+        "start": [1, 14, 43, 106, 150, 247, 261, 294, 334, 415],
+        "end": [11, 21, 48, 107, 160, 255, 276, 308, 343, 424],
+        "text": [
+          "După dejun",
+          "amândouă",
+          "apatie",
+          "în",
+          "străinătate",
+          "frânturi",
+          "propriile gânduri",
+          "pe neaşteptate",
+          "lipsindu-le",
+          "dintr-odată"
+        ]
+      }
+    },
+    {
+      "text": "Conpartimentul de clasa intâi era ânăbuşitor; reclamele în culori vi ale companiilor feroviare (Pont du Gard la Arles, Amphithéâtre la Orange, sporturi de iarna la Chamonix) erau mai proaspete ca marea nemişcată de afară. Spre deosebire de trenul americane apsorbite într-un destin intens, numai al lor, şi pline de dispreţ faţă de cei dintro altă lume mai puţin rapidă şi cu respiraţia mai domoală, aici trenul era o parte a peisajului prin care treceau. Respiratia lui sufla praful de pe frunzele palmieri-lor, funinginea se amesteca în bălegarul uscat de prin grădini. ",
+      "edits": {
+        "start": [1, 25, 35, 60, 156, 180, 241, 258, 337, 457, 500],
+        "end": [14, 36, 44, 68, 160, 195, 256, 266, 342, 466, 511],
+        "text": [
+          "Compartimentul",
+          "întâi",
+          "înăbuşitor",
+          "culori vii",
+          "iarnă",
+          "mai proaspete decât",
+          "trenurile americane",
+          "absorbite",
+          "dintr-o",
+          "Respirația",
+          "palmierilor"
+        ]
+      }
+    },
+    {
+      "text": "O duzină de birjari dormeau pe caprele trasurilor in faţa gării Cannes. Dincolo pe promenada Cazinoului, pravaliile de lux şi marile hoteluri isi îndreptau măştile in expresive ale faţadelor către mareea estivală. Era de necrezut că ar fi existat vreodată un sezon şi Rosemary, care era, prin profesia ei, întro măsură influenţată de modă, se simţi de-odată timidă, ca şi cum ar fi fost pe moarte şi şi-ar fi dat seama că are nişte dorinţe ne lalocul lor; ca şi cum toată lumea din jur s-ar fi întrebat de ce venise şi ea exact în momentul acesta. între clipele de veselie din iarna trecuta şi cele din iarna vitoare, în vreme ce sus, în nord, lumea adevărată îşi continua zgomotoasă viata.",
+      "edits": {
+        "start": [
+          40, 51, 73, 106, 143, 165, 198, 307, 350, 441, 532, 584, 610, 685
+        ],
+        "end": [
+          49, 52, 93, 115, 145, 173, 203, 311, 357, 450, 553, 590, 616, 689
+        ],
+        "text": [
+          "trăsurilor",
+          "în",
+          "Dincolo, pe promenada",
+          "prăvăliile",
+          "îşi",
+          "inexpresive",
+          "marea",
+          "într-o",
+          "deodată",
+          "nelalocul",
+          "momentul acesta, între",
+          "trecută",
+          "viitoare",
+          "viaţa"
+        ]
+      }
+    },
+    {
+      "text": "Pe cand ieşea dintrun magazin cu o sticlă de ulei de cocos in mana, o femeie pe care o recunoscu ca find doamna Diver, îi tăie calea cu bratele incărcate de perne de sofa, îndreptânduse către un automobil parcat mai în josul străzii? Un câine lung scund şi negru lătră spre ea, o şofer aţipit se trezi tresărind. Ea se aşeză în maşină, şi faţa frumoasă îi era împietrit, controlat, ochii gravi şi pânditori, privind drept înainte fără să vadă ceva anume. Rochia îi era de un rosu strălucitor şi picioarele cafeni, goale. Avea parul des, auriu-întunecat, ca blana unui câine chow-chow.",
+      "edits": {
+        "start": [
+          1, 15, 60, 63, 101, 137, 145, 173, 226, 244, 279, 361, 372, 476, 496,
+          527
+        ],
+        "end": [
+          7, 21, 61, 66, 104, 143, 153, 185, 242, 262, 285, 369, 380, 479, 512,
+          531
+        ],
+        "text": [
+          "Pe când",
+          "dintr-un",
+          "în",
+          "mână",
+          "fiind",
+          "braţele",
+          "încărcate",
+          "îndreptându-se",
+          "străzii. Un câine",
+          "lung, scund şi negru",
+          "un şofer",
+          "împietrită",
+          "controlată",
+          "roşu",
+          "picioarele cafenii",
+          "părul"
+        ]
+      }
+    },
+    {
+      "text": "Era acelasi simţamant care i-se păruse apăsător şi la hotel, obişnuită sa vadă cum cele mai brutale manifestări groțeşti ale unui continent întreg sunt luate fie drept comedi, fie drept tragedi; neobişnuită să distingă singură neesenţialul de esenţial, âncepuse acum să creadă că viaţa frantuzeasca era goală de semnificaţie şi searbădă. Simţământul acesta îi era sporit de melodiile triste ale orchestrei pe care aminteau de muzica melancolică a fanfarelor de circ la numerele de acrobaţie, Îi părea bine că se întorcea la hotelul lui Gausse.",
+      "edits": {
+        "start": [5, 13, 28, 72, 113, 169, 187, 254, 281, 407, 482],
+        "end": [11, 21, 38, 73, 120, 174, 193, 261, 298, 425, 500],
+        "text": [
+          "acelaşi",
+          "simţământ",
+          "i se păruse",
+          "să",
+          "groteşti",
+          "comedii",
+          "tragedii",
+          "începuse",
+          "viaţa franţuzească",
+          "care aminteau de",
+          " acrobaţie. Îi părea"
+        ]
+      }
+    },
+    {
+      "text": "A doua zi umerii ii erau prea arşi de soare ca să mai poată înnota, asa ca ea şi cu mama ei închiriara un automobil după multe târguieli, caci Rosemary îdi făcuse ideile ei despre valoarea banilor în Franţa.Ieşiră la plimbare pe Riviera, această deltă a multor fluvii. Şoferul un ţar rus din perioada lui Ivan cel Groaznic, se comporta ca un ghid numit cu de la sine putere, şi denumirile acelea strălucitoare: Cannes; Nisa; Monte Carlo, începură să-şi arate scânteierile prin obloanele aţipite, povestind în soapta despre regi de de mult care veneau aici să de-juneze sau să moară, despre maharajahii care aruncau ochii de rubin ai lui Buddha în braţele balerinelor englezoaice, despre prinţii ruşi care dădeau saptamani de crepuscul baltic pe zilele pierdute ale caviarului risipit aici.",
+      "edits": {
+        "start": [18, 69, 93, 139, 153, 198, 270, 397, 510, 517, 557, 713],
+        "end": [19, 74, 102, 142, 155, 213, 287, 436, 515, 538, 568, 721],
+        "text": [
+          "îi",
+          "înota",
+          "aşa că",
+          "închiriară",
+          "căci",
+          "îşi",
+          "în Franţa. Ieşiră",
+          "Şoferul, un ţar rus",
+          "strălucitoare: Cannes, Nisa, Monte Carlo",
+          "şoaptă",
+          "despre regii de demult",
+          "să dejuneze",
+          "săptămâni"
+        ]
+      }
+    },
+    {
+      "text": "Era placut să-se întoarcă acum la hotel, după amiaza tîrziu, privind de sus marea la fel de tainic colorată ca şi agatele şi cornalinele copilăriei, verzuie ca laptele verzui albastră ca sineala sau întunecată ca vinul. Era plăcut să treci prin faţa oamenilor iesiti să ia cina în praguri şi să auzi melodiile pianelor mecanice înverşunânduse în spatele faţadelor acoperite de viţă ale cârciumilor. Când cotiră pe Corniche d’Or şi spre hotelul lui Gausse, prin malul intunecos al copacilor, aşezaţi în şiruri asemenea valurilor urmând unul altuia, soarele plutea peste ruinele apeductului.",
+      "edits": {
+        "start": [5, 12, 42, 54, 109, 150, 261, 329, 468],
+        "end": [10, 25, 52, 59, 121, 186, 266, 343, 476],
+        "text": [
+          "plăcut",
+          "să se întoarcă",
+          "după-amiaza",
+          "târziu",
+          "ca agatele şi",
+          "verzuie ca laptele verzui, albastră ca",
+          "ieşiţi",
+          "înverşunându-se",
+          "întunecos"
+        ]
+      }
+    },
+    {
+      "text": "Undeva pe colinele din spatele hotelului, incepuse o petrecere, şi Rosemary asculta muzica prin clarul de lună fantomatic agatat în plasa de tantari de la ferestrele ei, spunânduşi că bucurile continuau dincolo şi gândindu-se la oamenii aceia simpatici de pe plajă. Socotea ca poate avea să-i mai întâlnească a-doua-zi dimineaţă, era însă limpede că ei constituiau un grup care şi era suficient siesi, şi odată ce aveau să-şi aranjeze, la locurile lor, umbrelele, covoraşele de bambus, căţei şi copii, partea din plajă ocupată de ei devenea rezervată şi închisă pentru restul lumii. Se hotărâ, în orice caz, să nu-şi mai petreacă ultimele două dimineţi laolaltă cu ceilalţi.",
+      "edits": {
+        "start": [1, 43, 123, 142, 171, 185, 267, 310, 374, 396, 387, 584],
+        "end": [18, 50, 128, 148, 180, 202, 282, 318, 384, 400, 500, 592],
+        "text": [
+          "Undeva, pe colinele",
+          "începuse",
+          "agăţat",
+          "ţânţari",
+          "spunându-şi",
+          "bucuriile continuau",
+          "Socotea că poate",
+          "a doua zi",
+          "care-şi era",
+          "sieşi",
+          "căţeii şi copiii",
+          "Se hotărî"
+        ]
+      }
+    },
+    {
+      "text": "Se auzea soapte şi glasuri scazute şi, după toate aparenţele, de foarte departe tremoloul unui armoniu.Dând colţul după nişte clădiri mărunte? ajunseră în lucirea albă, zgomotoasă a unei scene, unde un actor francez cu plastronul cămăşi, gulerul şi manşetele suflate întrun trandafiriu scânteietor şi actriţă americană stăteau nemişcaţi faţă în faţă. Se priveau unul pe altul cu ochii încăpaţanaţi, ca şi cum ar fi stat în aceaşi poziţie de ceasuri întregi; multă vreme nu se petrecu nimic, nu se mişcă nimeni.",
+      "edits": {
+        "start": [1, 28, 96, 127, 220, 268, 302, 386, 424],
+        "end": [15, 34, 104, 151, 236, 273, 308, 397, 429],
+        "text": [
+          "Se auzeau şoapte",
+          "scăzute",
+          "armoniu. Dând",
+          "clădiri mărunte, ajunseră",
+          "plastronul cămăşii",
+          "într-un",
+          "o actriţă",
+          "încăpăţânaţi",
+          "aceeaşi"
+        ]
+      }
+    },
+    {
+      "text": "De a lungul zidurilor dinspre sat totul era acoperit de praf, vitele si iederele legănătoare, lamai şi eucalipţi, roaba sprijinit la întâmplare, parcă doar cu un moment înainte, dar îngropată in carare, totul avea un aer atrofiat şi ameninţat de putreziciune. Nicole se simţea în totdeauna surprinsă când, întorcându-se în direcţia cealaltă, pe lângă un răsad de bujori, pătrundea întrun ţinut atât de proaspăt şi de verde, încat frunzele şi petalele s-e crispau într-o umezeală tandră.",
+      "edits": {
+        "start": [1, 63, 95, 115, 193, 278, 382, 425, 443],
+        "end": [11, 80, 112, 129, 201, 289, 387, 429, 462],
+        "text": [
+          "De-a lungul",
+          "viţele şi iederele",
+          "lămâii şi eucalipţii",
+          "roaba sprijinită",
+          "în cărare",
+          "întotdeauna",
+          "într-un",
+          "încât",
+          "petalele se crispau"
+        ]
+      }
+    },
+    {
+      "text": "Purta la gat un fişiu liliachiu care, chiar şi în lumina acea in-coloră de soare, îşi rasfrangea nuanţele spre faţa ei, apoi în jos, înconjurândui picioarele în mişcare cu o umbră violetă.Faţa îi era nemişcată, aproape aspra, în afară de licarirea molatică de ândoială înfricoşată care-i răsărea din ochii verzi. Părul ei, o dinioară blond, se întunecase la culoare, însă era mai frumoasă acum, la două zeci şi patru de ani, decât fusese la optsprezece, cand părul îi fusese mai strălucitor decât chipul.",
+      "edits": {
+        "start": [10, 51, 63, 83, 134, 181, 220, 239, 261, 324, 399, 455],
+        "end": [12, 61, 71, 96, 146, 192, 224, 247, 268, 333, 407, 464],
+        "text": [
+          "gât",
+          "lumina aceea",
+          "incoloră",
+          "îşi răsfrângea",
+          "înconjurându-i",
+          "violetă. Faţa",
+          "aspră",
+          "licărirea",
+          "îndoială",
+          "odinioară",
+          "douăzeci",
+          "când părul"
+        ]
+      }
+    },
+    {
+      "text": "Cand se stinseră in aerul verii, merse mai departe, printre bujori caleidoscopici adunaţi în nori rozali, printre tulipele intunecate şi cafenii şi printre trandafirii fragili cu tulpinel mov, transparente ca nişte flori de zahar într-o vitrină până când, ca şi cum scherzoul culorilor n-ar mai fi putut depasi o asemenea intensitate, acesta explodă de odată în aer şi trepte umede o conduseră apoi spre terasa cu aproape doi metri mai jos.",
+      "edits": {
+        "start": [1, 18, 53, 94, 124, 180, 225, 305, 351, 360],
+        "end": [4, 19, 81, 104, 133, 191, 229, 310, 358, 375],
+        "text": [
+          "Când",
+          "în",
+          "printre bujorii caleidoscopici",
+          "nori rozalii",
+          "întunecate",
+          "tulpinele mov",
+          "zahăr",
+          "depăşi",
+          "deodată",
+          "în aer, şi trepte"
+        ]
+      }
+    },
+    {
+      "text": "Insufleţirea asta faţă de toate lucrurile din jur atingea o intensitate dis-proporţionată fata de important lor, imprimândui o virtuozitate cu adevărat extraordinară în mânuirea celor din preajmă.In afară de câţiva, cei mai duri şi prin firea lor vesnic suspiciosi, avea puterea de a trezi în toate finţele de lângă el o iubire fascinată şi cu totul lipsită de capacitatea de a mai critica. Reactia se instala cand îşi ânţelegea deodată risipa şi extravagantele implicate de o asemenea atitudine.",
+      "edits": {
+        "start": [1, 73, 91, 114, 189, 248, 255, 300, 392, 411, 420, 448],
+        "end": [12, 89, 108, 124, 204, 253, 264, 306, 398, 414, 428, 461],
+        "text": [
+          "Însufleţirea",
+          "disproporţionată",
+          "faţă de importanţa",
+          "imprimându-i",
+          "preajmă. În afară",
+          "veşnic",
+          "suspicioşi",
+          "fiinţele",
+          "Reacţia",
+          "când",
+          "înţelegea",
+          "extravaganţele"
+        ]
+      }
+    },
+    {
+      "text": "La opt şi treizeci în seara acea, ieşi in intâmpinarea primiilor sai oaspeţi, purtânduşi, ceremonios promiţător, haina pe brat, ca pe o capă de toreador. După ce le salută pe Rosemary şi pe mama acesteia, aşteptă ca ele spună întâi ceva, ca cum ar fi vrut să le dea prilejul să-şi regăsească singure, auzindu-se vorbind, încrederea în ele insele în acest mediu nou.",
+      "edits": {
+        "start": [4, 29, 40, 43, 56, 66, 79, 91, 213, 214, 239, 333],
+        "end": [18, 32, 41, 54, 64, 68, 88, 111, 126, 225, 244, 345],
+        "text": [
+          "opt şi treizeci de minute",
+          "aceea",
+          "în",
+          "întâmpinarea",
+          "primilor",
+          "săi",
+          "purtându-şi",
+          "ceremonios, promiţător",
+          "braţ",
+          "ca ele să spună",
+          "ca şi cum",
+          "în ele însele"
+        ]
+      }
+    },
+    {
+      "text": "La fel cum calitatile personale ale unor oameni extra-ordinari pot să se arate mai limpede printro schimbare ne obişnuită a expresiei, tot astfel perfecţiune intens calculată a Vilei Diana se conpromitea dintrodată prin niste defecte minuscule, cum ar fi fost apariţia intâmplatoare a vreunei slujnice, în fundal, sau conturul pervertit al vreunui arbore stramb, de plută.Pe când soseau primi oaspeţi, cu aerul că de abia aşteaptă distracţile de peste noapte, tot ceea ce constituise ocupaţiile domestice de peste zi se îndepărta încet, lăsând doar imaginea copilor Diver şi a guvernantei lor, aşezaţi încă la masa de seară pe terasă.",
+      "edits": {
+        "start": [
+          12, 49, 92, 147, 193, 205, 221, 270, 356, 364, 381, 415, 432, 550
+        ],
+        "end": [
+          21, 62, 98, 176, 203, 214, 225, 282, 361, 379, 392, 421, 442, 565
+        ],
+        "text": [
+          "calităţile",
+          "extraordinari",
+          "printr-o",
+          "neobişnuită",
+          "perfecţiunea intens calculată a",
+          "compromitea",
+          "dintr-odată",
+          "nişte",
+          "întâmplătoare",
+          "strâmb",
+          "de plută. Pe când",
+          "soseau primii",
+          "de-abia",
+          "distracţiile",
+          "imaginea copiilor"
+        ]
+      }
+    },
+    {
+      "text": "In primul rand cronologia e mult mai putin strictă şi relevanta, textul find construit, cum spuneam şi mai sus, în jurul unor momente de revelaţie, care îi permit tânarul să aceadă la niveluri din ce în ce mai complexe ale experienţei. În al doilea rand,daca în bildungsromanul traditional evoluţia protagonistului culminează, deobicei, cu obţinerea unei poziţi sociale sigure (şi superioare celei de pornire) şi cu definirea unui rol precis asociat acestei poziţii, traiectoria lui Stephen este inversă.",
+      "edits": {
+        "start": [1, 38, 44, 73, 154, 175, 237, 279, 328, 341],
+        "end": [14, 42, 63, 76, 170, 180, 258, 289, 335, 361],
+        "text": [
+          "În primul rând,",
+          "puţin",
+          "relevantă",
+          "fiind",
+          "îi permit tânărului",
+          "acceadă",
+          "În al doilea rând, dacă",
+          "tradiţional",
+          "de obicei",
+          "obţinerea unei poziţii"
+        ]
+      }
+    },
+    {
+      "text": "Cele cinci parţi ale romanului co-respund celor cinci etape definitori din evolutia lui Stephen Dedalus şi dramatizeaza incercările acestuia de a găsi un principiu care săl calăuzească în viaţă.În primele patru capitole,îl vedem pe Stephen reactionand pe rând la câte un stimul care pare să reprezinte acest principiu. Aceste patru capitole s-e încadreaza întrun tipar asemănător: naraţiunea se intensifica până ce ajunge într-un punct culminant (care corespunde momentului de epifanie pe care îl trăieşte protagonistul şi ilustrează felia de viaţă pe care acesta o crede cea mai autentică în acel moment),după care urmează o cădere.",
+      "edits": {
+        "start": [12, 32, 61, 76, 108, 121, 170, 189, 212, 241, 342, 393, 606],
+        "end": [16, 41, 70, 83, 119, 131, 184, 204, 222, 251, 362, 421, 615],
+        "text": [
+          "părţi",
+          "corespund",
+          "definitorii",
+          "evoluţia",
+          "dramatizează",
+          "încercările",
+          "să-l călăuzească",
+          "viaţă. În primele",
+          "capitole, îl",
+          "reacţionând",
+          "se încadrează într-un",
+          "se intensifică până ce ajunge",
+          ", după care"
+        ]
+      }
+    },
+    {
+      "text": "În prima parte Stephen se vede nevoit sa descifreze complexitatile spaţiului social în care e din ce în ce mai conştient că se află. Fie că e vorba de familie sau de internatul iezuit unde îl trimit părinţi, experienţa copilului este alienantă. Atmosfera rigidă apăsătoare de la scoala îl face pe Stephen să retragă în cochilia încă moale, nu foarte clar demarcată a personalitati sale şi să şi conştientizească sentimentul diferenţei faţă de ceilalţi. Plasa de siguranţă a familiei începe şi ea să se destrame. Faimoasa scenă a cineii de Crăciun scoate în evidenţă puternicele tensiuni politice şi religioase a cărora le este martor copilul şi care sunt caracteristice nu numai familiei ci şi Irlandei în ansamblu.",
+      "edits": {
+        "start": [1, 39, 53, 200, 256, 280, 306, 368, 390, 396, 530, 600, 671],
+        "end": [14, 51, 63, 206, 272, 285, 315, 380, 394, 411, 535, 621, 693],
+        "text": [
+          "În prima parte,",
+          "să descifreze",
+          "complexităţile",
+          "părinţii",
+          "rigidă, apăsătoare",
+          "şcoală",
+          "să se retragă în",
+          "personalităţii",
+          "să-şi",
+          "conştientizeze",
+          "cinei",
+          "religioase cărora le",
+          "nu numai familiei, ci şi"
+        ]
+      }
+    },
+    {
+      "text": "Puctul cuminant al acestei prime parţi îl constituie hotarîrea lui Stephen de protesta împotriva pedepsei nedrepte pe care ia fost aplicată în clasă. Îl vedem astfel forţat să iasă din tăcerea pe care o preferă pentru aşi articula sinele social incipient. Atât cauzele crizei cât şi rezolvarea sa sunt de natură externă, iar răsplata curajului său confirmă natura eminamente socială a acestei prime etape a iniţieri lui Stephen Dedalus.",
+      "edits": {
+        "start": [1, 8, 34, 54, 76, 107, 124, 154, 257, 408],
+        "end": [6, 15, 38, 62, 86, 122, 139, 172, 282, 415],
+        "text": [
+          "Punctul",
+          "culminant",
+          "părţi",
+          "hotărârea",
+          "de a protesta",
+          "nedrepte care",
+          " i-a fost aplicată",
+          "vedem, astfel, forţat",
+          "a-şi articula",
+          " Atât cauzele crizei, cât şi",
+          "iniţierii"
+        ]
+      }
+    },
+    {
+      "text": "În capitolul al doilea, dimensiunea sociala este inlocuit de procesul de descoperire a propriei senzualităţii. Inpulsurile nu sunt foarte definite initial, Stephen parând doar confuz,pierdut prin labirintul străzilor din Dublin. Treptat insa observăm cum ochiul sau se închide către aceste detali înconjurătoare, atenţia fixândui, în schimb, pe instinctele erotice incipiente şi pe imaginaţia din ce în ce mai bogată. Lumea pe care şi-o construieşte în această imaginaţie pare mult mai reală decât cea în care trăiesc. E adevărat şi că principalii piloni ai acesteia din urmă, familia şi şcoala, sunt în proces de dezintegrare.",
+      "edits": {
+        "start": [37, 50, 88, 112, 148, 165, 177, 238, 256, 284, 322, 511],
+        "end": [43, 57, 109, 122, 154, 170, 190, 241, 276, 296, 329, 517],
+        "text": [
+          "socială",
+          "înlocuită",
+          "propriei senzualităţi",
+          "Impulsurile",
+          "iniţial",
+          "părând",
+          "confuz, pierdut",
+          "însă",
+          "ochiul său se închide",
+          "aceste detalii",
+          "fixându-i-se",
+          "trăieşte"
+        ]
+      }
+    },
+    {
+      "text": "Zarva copilor care se jucau îl irita şi tipetele lor prosteşti îl făcea să simtă, chiar mai acut decât simţise la Clongowes, ca el era conceput din altă plamada. El nu avea chef de joacă. Ar fi dorit să ântâlnească în lume reală acea imagine insupstanţială, imaterială, pe care o făuri-se şi o păstra sufletul lui. Experienţele care urmează: noua şcoală la care este trimis, precum şi excursia la Cork cu tatăl său, îl arată din ce mai puţin dispus să se lase influentat de mediul în care trăieşte.",
+      "edits": {
+        "start": [1, 41, 64, 126, 154, 204, 219, 243, 281, 426, 461],
+        "end": [13, 48, 80, 127, 160, 214, 222, 256, 288, 435, 470],
+        "text": [
+          "Zarva copiilor",
+          "ţipetele",
+          "îl făceau să simtă",
+          "că",
+          "plămadă",
+          "întâlnească",
+          "lumea",
+          "insubstanţială",
+          "făurise",
+          "din ce în ce mai",
+          "influenţat"
+        ]
+      }
+    },
+    {
+      "text": "Acest nereuşita îl adânceşte si mai mult în sine. Îl vedem aici pe Stephen, şi vom vedea oarecum în aceaşi ipostază şi în capitolul următor, luptânduse cu dihotomia dintre interior şi exterior,dintre imaginaţie şi realitate. Treptat însă v-a învăţa că o astfel de separare este de fapt artificială. În acest lecţie administrată eroului său, el marchez un punct modernist, chiar dacă nu merge încă atât de departe ca în Ulise, unde v-a arăta în ce masura ambii termeni sunt, în fond, o chestiune de percepţie tradusă în limbaj.",
+      "edits": {
+        "start": [1, 30, 77, 101, 142, 239, 274, 303, 342, 432, 448],
+        "end": [15, 31, 88, 106, 151, 248, 285, 314, 351, 440, 453],
+        "text": [
+          "Această nereuşită",
+          "şi",
+          "şi-l vom vedea",
+          "aceeaşi",
+          " luptându-se",
+          "va învăţa",
+          "este, de fapt, ",
+          "această lecţie",
+          "el marchează",
+          "va arăta",
+          "măsură"
+        ]
+      }
+    },
+    {
+      "text": "În cădere de după acest punct culminant, ce deschide partea a treia, lume exterioară, de care Stephen paruse că se desprinde, îşi impune din nou prezenta. Vulnerabilizat de conştinţa păcatu-lui comis, Stephen e o pradă uşoară în fata dulăilor hămesiţi ai catolicismului. Capitolul al treilea este probabil cel mai intens şi mai bine scris al Portretului. Eliberat de camasa de forţă a conştiinţei lui Stephen, liber sa dea glas şi altor voci, Joyce face un inpresionant tur de forţă în paginile predici parintelui Arnall.",
+      "edits": {
+        "start": [1, 70, 103, 146, 174, 184, 227, 368, 417, 458, 496, 504],
+        "end": [17, 84, 108, 153, 182, 193, 233, 373, 422, 469, 502, 513],
+        "text": [
+          "În căderea de după",
+          "lumea exterioară",
+          "păruse",
+          "prezenţa",
+          "conştiinţa",
+          "păcatului",
+          "în faţa",
+          "cămaşa",
+          "să dea",
+          "impresionant",
+          "predicii",
+          "părintelui"
+        ]
+      }
+    },
+    {
+      "text": "Nu e o exagerare s-a afirmăm că viziunea iadului din prediciile care Stephen le ascultă în timpul perioadei de reculegere de la şcoală este una din cele mai coplesitoare de la Dante incoace. Se spune chiar că Thomas Merton s-ar fii convertit la catolicism după ce-a citit aceste pagini. Zdrobit de forţa acestora şi de enormitatea păcatului comis, Stephen se hotărăşte să şi reprime toate instinctele şi să se dedice colosalului efort de aşi izbăvi sufletul. Îl vedem prada unei înfricoşătoare agonii a spiritului, rătăcind din nou pe străzile Dublinului, de data aceasta în căutarea unei capele şi a unui preot.",
+      "edits": {
+        "start": [18, 50, 65, 158, 183, 224, 257, 357, 436, 469],
+        "end": [28, 63, 76, 169, 189, 231, 271, 382, 448, 473],
+        "text": [
+          "să afirmăm",
+          "din predicile",
+          "pe care Stephen",
+          "copleşitoare",
+          "încoace",
+          "s-ar fi",
+          "după ce a citit",
+          "se hotărăşte să-şi reprime",
+          "de a-şi izbăvi",
+          "pradă"
+        ]
+      }
+    },
+    {
+      "text": "În tote trei capitolele preludiul epifaniei il plasez pe Stephen intr-un spaţiu înntunecat, labirintic, coridoarele ce duc spre biroul rectorului în prima parte şi străzile Dublinului în celelate două.Punctul culminant al acestei părţi, spovedania, îi re aduce lui Stephen speranţa că se v-a putea spăla de păcat şi reintegra în lumea dreptcredincioşilor. Orbit de teamă şi de ruşine, Stephen nu reuşeşte încă să-şi dea seama că reacţia s-a e provocată de forţa unui instituţii, Biserica Catolică Irlandeză, şi nu de o vocaţie religioasă autentică izvorata din interiorul său.",
+      "edits": {
+        "start": [4, 45, 81, 188, 201, 253, 286, 336, 430, 463, 549],
+        "end": [7, 53, 90, 195, 208, 260, 291, 354, 440, 477, 556],
+        "text": [
+          "toate",
+          "îl plasează",
+          "într-un",
+          "întunecat",
+          "celelalte",
+          ".Punctul",
+          "readuce",
+          "se va",
+          "drept-credincioşilor",
+          "reacţia sa",
+          "unei instituţii",
+          "izvorâtă"
+        ]
+      }
     }
   ]
 }
