@@ -1,0 +1,827 @@
+{
+  "texts": [
+    {
+      "text": "Pe vremea cand eram mai tanar si m-ai influenţabil, tata mia dat un sfat care de atunci mi-a rămâs mereu prezent în minte. —Ori de câte ori a-i poftă să vei critica pe cineva, mi-a spus, tine seama că nu toţi oameni au avantajele de care teai bucurat tu.",
+      "edits": {
+        "start": [11, 25, 34, 58, 94, 141, 154, 188, 210, 217, 239],
+        "end": [15, 30, 38, 61, 99, 144, 165, 192, 216, 219, 243],
+        "text": [
+          "când",
+          "tânăr",
+          "mai",
+          "m-ai",
+          "rămas",
+          "ai",
+          "critici",
+          "ține",
+          "oamenii",
+          "au avut",
+          "te-ai"
+        ]
+      }
+    },
+    {
+      "text": "Atat si nimic mai mult – dar cum totdeauna neam înţeles foarte bine din putine cuvinte, mi-am dat seama că a voit să spună mult mai mult. Urmarea este ca am tendinţa de a nu judeca şi condamnâ pe nimeni, obicei datoritâ cărora am izbutit sa pătrund multe caractere ciudate, dar am şi căzut pradă multor pisalogi înveteraţi.",
+      "edits": {
+        "start": [1, 6, 44, 73, 108, 152, 185, 221, 239, 304],
+        "end": [5, 8, 48, 79, 114, 154, 193, 227, 241, 312],
+        "text": [
+          "Atât",
+          "şi",
+          "ne-am",
+          "puţine",
+          "voia",
+          "că",
+          "condamna",
+          "căruia",
+          "să",
+          "pisălogi"
+        ]
+      }
+    },
+    {
+      "text": "O minte sucită a descoperit şi va profită repede de această calitate când se întâmplă so întâlnească la un om normal, şi aşa sa făcut că in anii studenţiei am fost acuzat – pe nedrept – că sunt o fire interesata şi abilă, pentru motivul că necunoscuti cu apucături strani îmi mi-au destăinuit necazurile lor ascunse.",
+      "edits": {
+        "start": [16, 32, 87, 126, 202, 241, 266, 277],
+        "end": [28, 42, 89, 128, 212, 252, 272, 293],
+        "text": [
+          "descoperă",
+          "profită",
+          "s-o",
+          "s-a",
+          "interesată",
+          "necunoscuţi",
+          "stranii",
+          "destăinuiau"
+        ]
+      }
+    },
+    {
+      "text": "Singurul obiect cu totul immobil era o sofa enorma pe care se aflau, agăţate parcă de o geamandura, două femei tinere. Am purtat amândouă rochii albe, ale caror cute şi falduri tremură şi fremătau necontenit, ca şi cum chiar atunci sar fi oprit să-şi tragă sufletul, dupa ce alergau împrejurul casei.",
+      "edits": {
+        "start": [26, 45, 89, 120, 156, 178, 233, 268, 276],
+        "end": [33, 51, 99, 129, 161, 185, 236, 272, 283],
+        "text": [
+          "imobil",
+          "enormă",
+          "geamandură",
+          "Purtau",
+          "căror",
+          "tremurau",
+          "s-ar",
+          "după",
+          "alergaseră"
+        ]
+      }
+    },
+    {
+      "text": "Pe ceea mai tânără no cunoşteam. Stăteam cât era de lunga la un capăt al divanului, perfect nemişcată, cu bărbia repezită in sus ca si cum ar fi menţinut în echilibru pe ea un obiect în primejdie sa se răstoarne. Chiar dacă ma văzuse cu coada ochiului, nu se trada prin nimic, iar eu mă simţeam atât de stanjenit, încât îmi venea să bolborosesc niste scuze că am deranjato.",
+      "edits": {
+        "start": [3, 19, 33, 52, 122, 132, 196, 224, 259, 303, 345, 363],
+        "end": [7, 21, 40, 57, 124, 134, 198, 226, 264, 313, 350, 374],
+        "text": [
+          "cea",
+          "n-o",
+          "Stătea",
+          "lungă",
+          "în",
+          "şi",
+          "să",
+          "mă",
+          "trăda",
+          "stânjenit,",
+          "nişte",
+          "deranjat-o"
+        ]
+      }
+    },
+    {
+      "text": "Miam privit din nou verisoara, care acum începuse sa mă chestioneze cu aceeaşi voce joasă, fascinanta. Avea o voce pe care iţi era cu neputinţă să no urmăreşti în modulaţiile ei, ca si cum fiecare frază rostita ar fi fost o temă melodică pe care nu aveai s-o mai asculţi niciodată.",
+      "edits": {
+        "start": [0, 20, 50, 91, 123, 147, 182, 203, 255],
+        "end": [4, 30, 52, 102, 126, 149, 184, 210, 257],
+        "text": [
+          "Mi-am",
+          "verişoara,",
+          "să",
+          "fascinantă.",
+          "îţi",
+          "n-o",
+          "şi",
+          "rostită",
+          "s-o"
+        ]
+      }
+    },
+    {
+      "text": "Am privito pe domnişoara Baker, întrebându-mă ce anume o fie „reuşit să facă“. Te uitam la ea cu placere. Era o fată zvelta, cu sânii mici si trupul drept, care îşi accentuase aer sportiv trăgându-şi umerii spre spate, ca un elev de scoală militara.",
+      "edits": {
+        "start": [3, 57, 82, 97, 117, 139, 165, 176, 234, 241],
+        "end": [10, 60, 87, 105, 124, 141, 175, 179, 240, 250],
+        "text": [
+          "privit-o",
+          "fi",
+          "uitai",
+          "plăcere.",
+          "zveltă,",
+          "şi",
+          "accentua",
+          "aerul",
+          "şcoală",
+          "militară."
+        ]
+      }
+    },
+    {
+      "text": "Daisy si domnişoara Baker se trezeau uneori vorbind amandoua deodată, nu pentru ca sar fi grăbit sa spună ceva, ci m-ai degrabă vorbind fără rost, nu chiar flecărind, ci păstrand tot timpul un fel de detaşare asemănătoare cu răceala rochilor albe şi cu priviriile lor impersonale, lipsite de orice dorinta.",
+      "edits": {
+        "start": [6, 52, 80, 83, 97, 115, 170, 233, 253, 298],
+        "end": [8, 60, 82, 86, 99, 119, 178, 241, 263, 306],
+        "text": [
+          "şi",
+          "amândouă",
+          "că",
+          "s-ar",
+          "să",
+          "mai",
+          "păstrând",
+          "rochiilor",
+          "privirile",
+          "dorinţă."
+        ]
+      }
+    },
+    {
+      "text": "Era in conversaţia lui ceva patetic, ca si cum încredere pe care o avea în el insuşi, acum cand eram mai matur decât pe vremuri, nu iar mai fii ajuns. Când, aproape indată după aceea, se auzi telefonul sunand în casă şi valetul părasi veranda, Daisy profită de această întrerupere de o clipă si se aplecă spre mine.",
+      "edits": {
+        "start": [4, 40, 47, 78, 91, 96, 132, 140, 165, 202, 228],
+        "end": [6, 42, 56, 85, 95, 100, 135, 143, 171, 208, 294],
+        "text": [
+          "în",
+          "şi",
+          "încrederea",
+          "însuşi,",
+          "când",
+          "era",
+          "i-ar",
+          "fi",
+          "îndată",
+          "sunând",
+          "părăsi",
+          "şi"
+        ]
+      }
+    },
+    {
+      "text": "O clipă, o ultimă raza de soare căzu cu străluciri romantică pe faţai însufleţită; vocea el mă silea sa mă plec cu respiratia tăiată – apoi scanteierea se stinse si lumina îi părăsise cu regret trăsăturile, întârzind pe fiecare dintre el, întocmai ca niste copii care se joacă seara pe stradă si nu se-ndură să intre în casă.",
+      "edits": {
+        "start": [18, 40, 64, 89, 101, 115, 140, 162, 175, 207, 235, 251, 293],
+        "end": [22, 50, 69, 91, 103, 125, 151, 164, 183, 216, 238, 256, 295],
+        "text": [
+          "rază",
+          "strălucire",
+          "faţa-i",
+          "ei",
+          "să",
+          "respiraţia",
+          "scânteierea",
+          "şi",
+          "părăsi",
+          "întârziind",
+          "ele,",
+          "nişte",
+          "şi"
+        ]
+      }
+    },
+    {
+      "text": "Cel putin o dată la două saptămâni, un adevărat batalion despre oameni speciali angajaţi veneau cu cateva sute de metrii de pânză si destule lampioane colorate ca să transforme într-un urias pom de Crăciun întreaga grădină a lui Gatsby. Pe meselele bufetului instalat afară, pline de farfurii stralucitoare cu tot felul de gustări, sendvisurile cu şuncă în aspic se înghesuisera printre salatele aranjate în arabescuri ciudate si fripturile de porc şi curcan de culoare aurului vechi.",
+      "edits": {
+        "start": [
+          4, 25, 57, 71, 99, 114, 130, 186, 242, 295, 334, 368, 429, 464
+        ],
+        "end": [
+          9, 35, 63, 79, 105, 120, 132, 191, 250, 308, 346, 380, 431, 471
+        ],
+        "text": [
+          "puţin",
+          "săptămâni,",
+          "de",
+          "special",
+          "câteva",
+          "metri",
+          "şi",
+          "uriaş",
+          "mesele",
+          "strălucitoare",
+          "sendvişurile",
+          "înghesuiau",
+          "şi",
+          "culoarea"
+        ]
+      }
+    },
+    {
+      "text": "Încăperea era plina de oameni. Una dintre fetele în galben cânta la pian si alături, în picioare, era o tanăra doamnă înaltă, cu părul roşu, despre care se spunea ca face parte dintr-un cor faimos si care tocmai era pe cale sa cânte ceva. Băuse şi o mare cantitate de şampanie şi în timp ceși cânta piesa ajunsese probabil, fără prea multă justificari, la concluzia că totul în jur era foarte, foarte trist – nu se multumea numai să cânte, ci şi plangea.",
+      "edits": {
+        "start": [14, 73, 104, 163, 197, 224, 288, 340, 415, 446],
+        "end": [19, 75, 110, 165, 199, 226, 292, 352, 423, 454],
+        "text": [
+          "plină",
+          "şi",
+          "tânără",
+          "că",
+          "şi",
+          "să",
+          "ce-și",
+          "justificare,",
+          "mulţumea",
+          "plângea."
+        ]
+      }
+    },
+    {
+      "text": "Pe când asteptam în hol să mi se dadea pălăria, usa dinspre bibliotecă se deschise şi Jordan Baker şi Gatsby ieşira împreună. El tocmai îi mai spunea cateva cuvinte, însă pasiunea cu carei vorbisem probabil până atunci se transformă brusc întro notă de formalismul când se apropiară câteva persoane săi zica la revedere.",
+      "edits": {
+        "start": [8, 33, 48, 109, 150, 183, 189, 239, 253, 299, 303],
+        "end": [16, 38, 51, 115, 156, 188, 197, 244, 264, 302, 307],
+        "text": [
+          "aşteptam",
+          "dea",
+          "uşa",
+          "ieşiră",
+          "câteva",
+          "care-i",
+          "vorbise",
+          "într-o",
+          "formalism",
+          "să-i",
+          "zică"
+        ]
+      }
+    },
+    {
+      "text": "În şantul de la marginea şoselei, cu partea din dreptei încă pe asfalt, insă cu o roată smuls brutal, se găsea un automobil elegant care părasise aleea lui Gatsby cu cateva clipe înainte. Ieşit bruscă a unui zid explica dislocarea atat de violentă a roţi şi la locul accidentului se strângeau cu o atenţie încordata vreo jumătate de duzină de şoferi curioşi.",
+      "edits": {
+        "start": [3, 48, 72, 88, 137, 166, 188, 231, 250, 283, 306],
+        "end": [9, 55, 76, 93, 145, 172, 193, 235, 254, 292, 315],
+        "text": [
+          "şanţul",
+          "dreapta",
+          "însă",
+          "smulsă",
+          "părăsise",
+          "câteva",
+          "Ieşitura",
+          "atât",
+          "roţii",
+          "strânseseră",
+          "încordată"
+        ]
+      }
+    },
+    {
+      "text": "Claxoanele nervoase din spate urcă acum în crescendo. Mi-am desprins din grupul ce se formă şi mi-am îndreptat pe pajiste către locuinţa mea. Am mai arunca o privire în urma. Luna plină strălucea peste casa lui Gatsby, făcand noaptea să tremure în aceeaşi splendoare, liniştită, deasupra rasetelor si şoaptelor ce se mai auzeau din grădina înca scânteietoare.",
+      "edits": {
+        "start": [30, 54, 86, 95, 114, 149, 169, 219, 288, 298, 340],
+        "end": [34, 59, 91, 100, 121, 155, 174, 225, 297, 300, 344],
+        "text": [
+          "urcaseră",
+          "M-am",
+          "formase",
+          "m-am",
+          "pajişte",
+          "aruncat",
+          "urmă.",
+          "făcând",
+          "râsetelor",
+          "şi",
+          "încă"
+        ]
+      }
+    },
+    {
+      "text": "Na vrut sa m-ai adauge nimic. Pe măsură ce ne apropiam de oraş! căpata un aer tot mai corect si mai ţeapăn. Am trecuseram de Port Roosevelt, unde o clipă a sclipit nişte transatlantice cu dunga lată roşie, şi am alunecat grabiţi pe o stradă îngustă, pietruită, marginită de cafenele întunecoasele, aglomerate, ca nişte imagini cu farmecul stinge ale anilor 1900.",
+      "edits": {
+        "start": [0, 8, 11, 58, 64, 93, 111, 154, 188, 221, 261, 283, 330, 339],
+        "end": [2, 10, 15, 63, 70, 95, 121, 155, 193, 228, 270, 297, 338, 345],
+        "text": [
+          "N-a",
+          "să",
+          "mai",
+          "oraş,",
+          "căpăta",
+          "şi",
+          "trecut",
+          "au",
+          "dungă",
+          "grăbiţi",
+          "mărginită",
+          "întunecoase,",
+          "farmec",
+          "stins"
+        ]
+      }
+    },
+    {
+      "text": "Eram flatat că accepta să stati de vorbă cu mine, pentru ca, dintre toate fetele mai mare decât mine, pe ea o admira cel mai mult. Mă întrebă dacă mai duceam în dimineaţa aceea la Crucea Roşie, unde faceam din când în când muncă benevola, pregătind feşe si bandaje.",
+      "edits": {
+        "start": [5, 26, 57, 85, 110, 147, 199, 229, 254],
+        "end": [11, 31, 60, 89, 116, 150, 205, 238, 256],
+        "text": [
+          "flatată",
+          "stea",
+          "că,",
+          "mari",
+          "admiram",
+          "mă",
+          "făceam",
+          "benevolă,",
+          "şi"
+        ]
+      }
+    },
+    {
+      "text": "Întreg carte este o dovada că adevărul învinge vremurile. O fragment din această dovadă era la fel de actual ca atunci cînd a fost scris. Masele, multimile de oameni obișnuiții nu elaborez nici un fel de idei, nici bune, nici prost. Ele doar aleg între idei elaborate de lideri intelectuali ai omeniiri. Dar această alegere a lor este hotăritoare și ea determină mersul evenimente.",
+      "edits": {
+        "start": [0, 20, 58, 88, 146, 166, 180, 226, 271, 294, 335, 370],
+        "end": [6, 26, 59, 91, 155, 176, 188, 232, 277, 303, 346, 381],
+        "text": [
+          "Întreaga",
+          "dovadă",
+          "Un",
+          "este",
+          "mulțimile",
+          "obișnuiți",
+          "elaborează",
+          "proaste.",
+          "liderii",
+          "omenirii.",
+          "hotărîtoare",
+          "evenimentelor."
+        ]
+      }
+    },
+    {
+      "text": "Ideiile false sînt periculos pentru că nu lasa lucrurile să meargă de la sine, potrivit naturi lor. Încrederea în rațiune umană nu este echivalență cu încrederea în natura lucruri. Argumentele pot susține adevărul sau minciuna, ele pot fi riguroase logice sau falacioase. Înainte de a fi armele unei actiuni iraționale, ideile false sînt produsul unei rațiunii insuficiente.",
+      "edits": {
+        "start": [0, 19, 42, 88, 114, 136, 172, 239, 300, 352],
+        "end": [7, 28, 46, 94, 121, 147, 180, 248, 307, 360],
+        "text": [
+          "Ideile",
+          "periculoase",
+          "lasă",
+          "naturii",
+          "rațiunea",
+          "echivalentă",
+          "lucrurilor.",
+          "riguros",
+          "acțiuni",
+          "rațiuni"
+        ]
+      }
+    },
+    {
+      "text": "Deși, în zile noastre, discursul institutional european afirmă ca toleranța are limite si că intoleranța trebuie să fie trateze cu intoleranță, eficienta acestui tip de discurs este reduse, cît timp nu este însoțit si de acțiuni instituționale ferme împotrive celor care promovează intoleranța, adica a acelora care cred că mersul firesc al lucrurilor poate fi înlocui cu forțarea acestora în direcția ideilor falsi.",
+      "edits": {
+        "start": [9, 33, 63, 87, 120, 144, 182, 215, 250, 295, 361, 410],
+        "end": [13, 46, 65, 89, 127, 153, 189, 217, 259, 300, 368, 416],
+        "text": [
+          "zilele",
+          "instituțional",
+          "că",
+          "și",
+          "tratată",
+          "eficiența",
+          "redusă,",
+          "și",
+          "împotriva",
+          "adică",
+          "înlocuit",
+          "false."
+        ]
+      }
+    },
+    {
+      "text": "Oricat de importante ar fi provocarile cotidiene cu care se confruntă cetățeni, provocările pe termen medii și pe termen lung sunt cel puțin la fel de importante. Pierderea libertătii și renunțarea la demnitatea si siguranța persoanei sînt costuri uriașele, mult mai mari decît cele necesare pentru apararea acestor valori.",
+      "edits": {
+        "start": [0, 27, 70, 102, 126, 173, 212, 248, 299],
+        "end": [6, 38, 79, 107, 130, 183, 214, 257, 307],
+        "text": [
+          "Oricît",
+          "provocările",
+          "cetățenii,",
+          "mediu",
+          "sînt",
+          "libertății",
+          "și",
+          "uriașe,",
+          "apărarea"
+        ]
+      }
+    },
+    {
+      "text": "Condiția necesar pentru a evita aceasta epilog este ca forța de atractie a adevărului să fii mai mare decît bolboroseala hipnotica a ideilor false. Pentru ca lucrurile să mearga în mod firesc, trebuie să fiti descurajați cei carora, sub vraja ideilor false, împinge lumea, inclusiv prin război si acțiuni teroriste, spre destinați nefirești.",
+      "edits": {
+        "start": [9, 32, 64, 89, 121, 171, 204, 225, 258, 294, 321],
+        "end": [16, 39, 72, 92, 130, 177, 208, 232, 265, 296, 330],
+        "text": [
+          "necesară",
+          "acest",
+          "atracție",
+          "fie",
+          "hipnotică",
+          "meargă",
+          "fie",
+          "care,",
+          "împing",
+          "și",
+          "destinații"
+        ]
+      }
+    },
+    {
+      "text": "În mod obisnuit, marea majoritate a persoanelor car suferă de depresie nu au energii și se simt adesea epuizati. Acestora le este deseori imposibil sa ducă la bun sfîrșit sarcinile de zi cu zile, ceea ce reprezinte o foarte mare problemă care le afecteaza în mod considerabil viata de zi cu zi.",
+      "edits": {
+        "start": [7, 48, 77, 103, 148, 190, 204, 246, 276],
+        "end": [16, 51, 84, 112, 150, 195, 214, 255, 281],
+        "text": [
+          "obișnuit,",
+          "care",
+          "energie",
+          "epuizate.",
+          "să",
+          "zi,",
+          "reprezintă",
+          "afectează",
+          "viața"
+        ]
+      }
+    },
+    {
+      "text": "Studiile arata că persoanele care suferă despre depresie prezintă o stare de spirit trista iar interesul pentru lucruri placute dispare cu desăvarșire. Cu cîte starea de spirit proastă este mai lungi, cu atît mai mult cresc și sansele ca persoana respectivă să sufere de depresii.",
+      "edits": {
+        "start": [9, 41, 84, 120, 139, 155, 194, 227, 271],
+        "end": [14, 47, 90, 127, 151, 159, 200, 234, 280],
+        "text": [
+          "arată",
+          "de",
+          "tristă",
+          "plăcute",
+          "desăvîrșire.",
+          "cît",
+          "lungă,",
+          "șansele",
+          "depresie."
+        ]
+      }
+    },
+    {
+      "text": "Alegerea corecta a anvelope de iarnă este esențial pentru siguranța și performanța masinii pe drumurile reci și alunecoase din timpului sezonului rece. Cu o gamă largă de opțiuni disponibile pe piață, era important să știți să alegi și să luați decizia potrivită atît pentru masină cît și pentru condițile de trafic.",
+      "edits": {
+        "start": [9, 19, 42, 83, 127, 201, 227, 275, 296],
+        "end": [16, 27, 50, 90, 135, 204, 232, 281, 305],
+        "text": [
+          "corectă",
+          "anvelopelor",
+          "esențială",
+          "mașinii",
+          "timpul",
+          "este",
+          "alegeți",
+          "mașină",
+          "condițiile"
+        ]
+      }
+    },
+    {
+      "text": "Indicele de greutate este un alta aspect foart important atunci cînd veti alegeți o anvelope pentru mașina dumneavoastr. Dacă pneurile au taloane prea moi pentru greutatea mașini, atunci acesta va avea un comportament rutier nesiguri și va oferi u răspuns slab al direcții.",
+      "edits": {
+        "start": [29, 41, 69, 84, 107, 138, 172, 187, 225, 246, 264],
+        "end": [33, 46, 73, 92, 120, 145, 179, 193, 233, 247, 273],
+        "text": [
+          "alt",
+          "foarte",
+          "vă",
+          "anvelopă",
+          "dumneavoastră.",
+          "taloanele",
+          "mașinii,",
+          "aceasta",
+          "nesigur",
+          "un",
+          "direcției."
+        ]
+      }
+    },
+    {
+      "text": "Indicele de zgomot vă determina cît de confortabil vor fi acele anvelope la drumurile lungi. Deseori, din cauza profilului mai agresiv cu șanțuri si canale lati, anvelopele devin foarte zgomotos. La viteze mici, preponderent urbane, acestea nu vă va deranja.",
+      "edits": {
+        "start": [19, 39, 76, 146, 156, 186, 247],
+        "end": [21, 50, 85, 148, 161, 195, 249],
+        "text": [
+          "va",
+          "confortabile",
+          "drumuri",
+          "și",
+          "late,",
+          "zgomotoase.",
+          "vor"
+        ]
+      }
+    },
+    {
+      "text": "Cazinouri online oferă celor care preferau această formă de distractie un serie de servicii și condiți de joc, care poate fi mai mult în interesul lor. Jocurile de casino onlin pot fi jucate oriunde îsi dorește posesorul contului, făra să mai fie nevoie să se deplasezi undeva.",
+      "edits": {
+        "start": [0, 34, 60, 71, 95, 116, 171, 199, 231, 260],
+        "end": [9, 42, 70, 73, 102, 121, 176, 202, 235, 269],
+        "text": [
+          "Cazinourile",
+          "preferă",
+          "distracție",
+          "o",
+          "condiții",
+          "pot",
+          "online",
+          "își",
+          "fără",
+          "deplaseze"
+        ]
+      }
+    },
+    {
+      "text": "Oricît de mare ar fi distractia și bucuria la jocuri de antrenament sau demouri, jocurile de noroc parcă sînt făcut pentru a fii jucate pe bani reali. Acum poate face acest lucru prin intermediurile mai multor modalități de plata, printre care, cea mai populare este cea de plata cu cardul, mai ales că unele site-urile oferă gratuitate la orice transfer.",
+      "edits": {
+        "start": [21, 72, 110, 125, 156, 184, 224, 253, 309],
+        "end": [31, 80, 115, 128, 161, 198, 230, 261, 319],
+        "text": [
+          "distracția",
+          "demo,",
+          "făcute",
+          "fi",
+          "poți",
+          "intermediul",
+          "plată,",
+          "populară",
+          "site-uri"
+        ]
+      }
+    },
+    {
+      "text": "Așa ca, nu puteau să lipseasc de pe lista noastre cu ideiile de cadouri de la Moșu’. De la jocurile de societate, motive numai bun să va întîlniți și să vă jucați împreuna, pînă la deviceur de ultimă generațiile sau bilete la diverse spectacole. Toate cadouri sînt potrivite, dacă sînt făcuti cu multă dragoste și recunoștintă.",
+      "edits": {
+        "start": [4, 21, 42, 53, 91, 114, 134, 163, 181, 200, 252, 286, 314],
+        "end": [7, 29, 49, 60, 99, 120, 136, 172, 189, 211, 259, 292, 327],
+        "text": [
+          "că,",
+          "lipsească",
+          "noastră",
+          "idei",
+          "jocuri",
+          "motiv",
+          "vă",
+          "împreună,",
+          "deviceuri",
+          "generație",
+          "cadourile",
+          "făcute",
+          "recunoștință."
+        ]
+      }
+    },
+    {
+      "text": "Dacă în cercurile de prieteni aveți iubitoare de beauty, un calendar advent esti o idee minunată. Să descoperi zi de zi un surpriză, chiar îți aduce un sentimente de bucurie. Unde m-ai pui că și marele brandurile de dulciuri au astfel de calendar, așa că iubitori de ceva dulce (adică cam toti prietenii) vor fi foarte încantați.",
+      "edits": {
+        "start": [8, 76, 120, 152, 180, 202, 238, 255, 289, 319],
+        "end": [17, 80, 122, 162, 184, 212, 247, 263, 293, 329],
+        "text": [
+          "cercul",
+          "este",
+          "o",
+          "sentiment",
+          "mai",
+          "branduri",
+          "calendare,",
+          "iubitorii",
+          "toți",
+          "încîntați."
+        ]
+      }
+    },
+    {
+      "text": "Sărbătorilor pot fi copleșitoare uneori daruri, cu puțină răbdare si planificare, poate reduce stresul din aceaste perioadă astfel încât să va bucuri cu adevărat de cea ce înseamn sărbătorile de iarna.",
+      "edits": {
+        "start": [0, 40, 66, 82, 107, 140, 165, 172, 195],
+        "end": [12, 47, 68, 87, 114, 142, 168, 179, 201],
+        "text": [
+          "Sărbătorile",
+          "dar,",
+          "și",
+          "poți",
+          "această",
+          "te",
+          "ceea",
+          "înseamnă",
+          "iarnă."
+        ]
+      }
+    },
+    {
+      "text": "De acea, înainte de orice, stabileșteți prioritățiile, identificati ce este cu adevărat importante pentru tine si concentreazăte pe acele lucruri. Fă-ți o buget și planifică cheltuieliile astfel încât sa eviți agitația de ultime moment. În plus, impune-i limite clare de timpuri pentru sarcinile importante.",
+      "edits": {
+        "start": [3, 27, 40, 55, 88, 111, 114, 153, 174, 201, 222, 246, 271],
+        "end": [8, 39, 54, 67, 98, 113, 128, 154, 187, 203, 228, 254, 278],
+        "text": [
+          "aceea,",
+          "stabilește-ți",
+          "prioritățile,",
+          "identifică",
+          "important",
+          "și",
+          "concentrează-te",
+          "un",
+          "cheltuielile",
+          "să",
+          "ultim",
+          "impune-ți",
+          "timp"
+        ]
+      }
+    },
+    {
+      "text": "Desigur, nu toate lucrurile va decurge perfect. Și ast e în regulă. Înveti să apreciezi momentelor pentru ceea ce sunt, făra să te lași amăgite de așteptări înalte. Alocă timpuri pentru tine si pentru ceea ce te face fericiti, mai ales dacă ști că agitațiile sărbătorilor de iarnă te încarca negativ.",
+      "edits": {
+        "start": [28, 51, 68, 88, 120, 136, 171, 191, 217, 241, 248, 284],
+        "end": [30, 54, 74, 98, 124, 143, 178, 193, 226, 244, 258, 291],
+        "text": [
+          "vor",
+          "asta",
+          "Învață",
+          "momentele",
+          "fără",
+          "amăgit",
+          "timp",
+          "și",
+          "fericit,",
+          "știi",
+          "agitația",
+          "încarcă"
+        ]
+      }
+    },
+    {
+      "text": "Această realitat devine cu atît m-ai evidentă cînd discutam despre alegerea tapetul, deoarece acesta poate acoperire o suprafață mare dintr-o anumita încăpere. În încercarea de a creea interioare carei sa ne oferi o stare de bine, cunoaștera semnificații psihologice a culorilor este o resursă valoroasa.",
+      "edits": {
+        "start": [8, 32, 51, 76, 107, 142, 179, 196, 208, 231, 242, 294],
+        "end": [16, 36, 59, 84, 116, 149, 184, 201, 213, 241, 254, 304],
+        "text": [
+          "realitate",
+          "mai",
+          "discutăm",
+          "tapetului,",
+          "acoperi",
+          "anumită",
+          "crea",
+          "care",
+          "ofere",
+          "cunoașterea",
+          "semnificației",
+          "valoroasă."
+        ]
+      }
+    },
+    {
+      "text": "Tonurile de gri poate fi o alegere ce confer echilibru întregi încăperi. Aceste culoare sugerează de asemenea, rafinament si simplitate. Tapetul gri poate adăug un notă de eleganță și poate fi folosit pentru a creea un fundal subtili pentru alte culori sau elementele decorative. Alegînd un tapet gri, pot obține un aspect curat si contemporan, iar aceasta poate fi folosit pentru a pune in valoare linii simple si forme geometrice.",
+      "edits": {
+        "start": [
+          16, 38, 55, 73, 122, 155, 161, 210, 226, 257, 302, 329, 349, 388, 412
+        ],
+        "end": [
+          21, 44, 62, 79, 124, 160, 163, 215, 233, 267, 305, 331, 356, 390, 414
+        ],
+        "text": [
+          "pot",
+          "conferă",
+          "întregii",
+          "Această",
+          "și",
+          "adăuga",
+          "o",
+          "crea",
+          "subtil",
+          "elemente",
+          "poți",
+          "și",
+          "acesta",
+          "în",
+          "și"
+        ]
+      }
+    },
+    {
+      "text": "Tapetul verde poate crea un senzație de echilibru si vitalitate în încăpere. Este o alegerile populară petru zonele de rellaxare sau spațiile de luccru. Aceasta culoare este asociată de obic cu natura, prospețime și regenerarea. În funcția de nuanța aleasă, o model de tapet verde poate echilibrul mintea și stimula creativitatea.",
+      "edits": {
+        "start": [25, 50, 84, 103, 119, 145, 153, 186, 202, 232, 258, 287],
+        "end": [27, 52, 93, 108, 128, 152, 160, 190, 212, 239, 259, 297],
+        "text": [
+          "o",
+          "și",
+          "alegere",
+          "pentru",
+          "relaxare",
+          "lucru.",
+          "Această",
+          "obicei",
+          "prospețimea",
+          "funcție",
+          "un",
+          "echilibra"
+        ]
+      }
+    },
+    {
+      "text": "Această culore evocă un atmosferă calmă și relaxantă. Diferiti nuanțe de albastru pota sugera liniște, profunzie și stabilitate. Este potrivit pentru spațiile in care dorim sa ne relaxăm sau să ne concentram. Nuanțelele m-ai deschise sînt indicate atunci cand dorești sa onferi o senzație de spațiul aerisit și calm. În schimbul, nuanțele de albastru închisi conduc către o stare mai introspective.",
+      "edits": {
+        "start": [
+          8, 21, 54, 82, 103, 159, 173, 197, 209, 220, 255, 268, 292, 320, 351,
+          384
+        ],
+        "end": [
+          14, 23, 62, 86, 112, 161, 175, 208, 219, 224, 259, 270, 299, 329, 358,
+          398
+        ],
+        "text": [
+          "culoare",
+          "o",
+          "Diferite",
+          "pot",
+          "profunzime",
+          "în",
+          "să",
+          "concentrăm.",
+          "Nuanțele",
+          "mai",
+          "cînd",
+          "să",
+          "spațiu",
+          "schimb,",
+          "închis",
+          "introspectivă."
+        ]
+      }
+    },
+    {
+      "text": "Sugerează entuziasmul, creativitate si căldură. Tapet portocaliu poate aduc o notă veselă și optimistă într interior, fiind potrivite în zonele destinatele socializării sau activitățlor creative. Preia din energiile roșului șine din bucuria galbenului, astfl încît poate fi utilizat și îm camera copiilor. De asemenea, poate fii prezent în spațiile de socializare, precum sufragerie sau sala de mese, fiind o nuanțe ce invită la interacțiune si comunicare.",
+      "edits": {
+        "start": [
+          10, 36, 48, 71, 103, 124, 144, 173, 206, 224, 253, 286, 325, 352, 372,
+          409, 442
+        ],
+        "end": [
+          22, 38, 53, 75, 107, 133, 155, 185, 215, 228, 258, 288, 328, 364, 382,
+          415, 444
+        ],
+        "text": [
+          "entuziasm,",
+          "și",
+          "Tapetul",
+          "aduce",
+          "în",
+          "potrivit",
+          "destinate",
+          "activităților",
+          "energia",
+          "și",
+          "astfel",
+          "în",
+          "fi",
+          "socializate,",
+          "sufrageria",
+          "nuanță",
+          "și"
+        ]
+      }
+    },
+    {
+      "text": "Simbolizeaz eleganța, puterea și misteruriel. Tapetul negru poate crea un senzație de dramatisme și sofisticare, dar trebuia folosit cu atenție pentru a evit diminuarea luminii și senzațiile de spațiu mic. Acționa în special ca unul fundal estetic pentru diferitele elemente decorative sau model geometrice în nuanțe m-ai deschise.",
+      "edits": {
+        "start": [0, 33, 71, 86, 117, 153, 180, 206, 228, 255, 290, 317],
+        "end": [11, 45, 73, 96, 124, 157, 190, 213, 232, 265, 295, 321],
+        "text": [
+          "Simbolizează",
+          "misterul.",
+          "o",
+          "dramatism",
+          "trebuie",
+          "evita",
+          "senzația",
+          "Acționează",
+          "un",
+          "diferite",
+          "modele",
+          "mai"
+        ]
+      }
+    }
+  ]
+}
